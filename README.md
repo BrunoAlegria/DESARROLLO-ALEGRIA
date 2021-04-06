@@ -1,2 +1,2 @@
 # DESARROLLO-ALEGRIA
-Proyectos de desarrollo de software de videojuegos por Python.
+Proyectos de desarrollo de software de videojuegos usando Python.
